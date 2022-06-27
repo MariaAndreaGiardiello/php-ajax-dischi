@@ -1,0 +1,15 @@
+
+header {
+background-color: black;
+}
+
+.logo-img {
+width: 50px;
+height: 50px;
+line-height: 45px;
+}
+
+main {
+    background-color: var(--secondary-color);
+    height: 100vh;
+}
